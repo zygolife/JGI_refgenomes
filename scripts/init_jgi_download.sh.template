@@ -1,0 +1,16 @@
+#!/usr/bin/bash
+#SBATCH -n 1 -N 1 --mem 2G --time 8:00:00 -o download_xml.log
+USERNAME=YOUREMAILADDRESS # UPDATE THIS WHEN COPYING THE TEMPLATE
+PASSWORD=YOURPASSWORD     # UPDATE THIS WHEN COPYING THE TEMPLATE
+
+mkdir -p lib
+curl 'https://signon-old.jgi.doe.gov/signon/create' --data-urlencode "login=$USERNAME" --data-urlencode "password=$PASSWORD" -c cookies > /dev/null 
+for CODE in mucoromycota zoopagomycota
+do
+	if [ ! -s lib/$CODE.xml ]; then
+		curl "https://genome.jgi.doe.gov/portal/ext-api/downloads/get-directory?organism=$CODE&organizedByFileType=true" -b cookies > lib/$CODE.xml
+	fi
+curl -o lib/$CODE.jgi_name.csv "https://mycocosm.jgi.doe.gov/ext-api/mycocosm/catalog/download-group?flt=&pub=all&grp=$CODE&srt=released&ord=desc"
+perl -i -p -e 's/^(\d),(\d{3})/$1$2/' lib/$CODE.jgi_name.csv
+done
+cat lib/*.jgi_name.csv | python scripts/jginames_to_tab.py > lib/zygo_names.csv

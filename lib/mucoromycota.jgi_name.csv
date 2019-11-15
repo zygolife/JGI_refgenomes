@@ -1,0 +1,80 @@
+##,name,portal,"NCBI Taxon","assembly length","#of genes","is public","is published","is superseded","superseded by","publication(s)","pubmed id(s)"
+1,"Mortierella sp. AD185 v1.0",MorAD185_1_1,1715235,55628574,15422,Y,N,N,,,
+2,"Umbelopsis sp. PMI_123 v1.0",Umbelo1,1896174,24636683,9672,Y,N,N,,,
+3,"Dichotomocladium robustum RSA 2353+ v1.0",Dicrob1,64645,38615751,12069,Y,N,N,,,
+4,"Mortierella elongata NVP64 v1.0",MoeNVP64_1,310910,51153770,13739,Y,N,N,,,
+5,"Ellisomyces anomalus CBS 243.57 v1.0",Ellano1,101134,36553112,12178,Y,N,N,,,
+6,"Phycomyces blakesleeanus UBC1 v1.0",Phybla1,4837,41020740,11981,Y,N,N,,,
+7,"Mucor circinelloides MU402 v1.0",Muccir1_3,36080,36817399,11843,Y,N,N,,,
+8,"Mucor mucedo NRRL 3635 v1.0",Mucmuc1,29922,46091836,14052,Y,N,N,,,
+9,"Amylomyces rouxii NRRL 5866 v1.0",Amyrou1,29923,45703929,14619,Y,N,N,,,
+10,"Jimgerdemannia flammicorona GMNB39",Jimfl_GMNB39_1,994334,239574967,13653,Y,Y,N,,"Chang Y et al.,2019","30485448"
+11,"Jimgerdemannia lactiflua OSC166217",Jimlac1,324621,179670541,12651,Y,Y,N,,"Chang Y et al.,2019","30485448"
+12,"Endogone sp FLAS 59071",Endsp1,2012134,95552741,9569,Y,Y,N,,"Chang Y et al.,2019","30485448"
+13,"Jimgerdemannia flammicorona AD002",Jimfl_AD_1,994334,231316372,13838,Y,Y,N,,"Chang Y et al.,2019","30485448"
+14,"Benjaminiella poitrasii RSA 903 v1.0",Benpoi1,64631,32504669,11659,Y,N,N,,,
+15,"Dissophora ornata CBS 347.77 v1.0",Disorn1,979620,38942631,12584,Y,N,N,,,
+16,"Blakeslea trispora F921 v1.0",Blatri_F921_1,4850,33516133,11119,Y,N,N,,,
+17,"Blakeslea trispora F986 v1.0",Blatri_F986_2,4850,32322358,10672,Y,N,N,,,
+18,"Rhizophagus cerebriforme DAOM 227022 v1.0",Rhice1_1,658196,136890557,21549,Y,Y,N,,"Morin E et al.,2019","30636349"
+19,"Gigaspora rosea v1.0",Gigro1,44941,567950182,31291,Y,Y,N,,"Morin E et al.,2019","30636349"
+20,"Rhizophagus diaphanus v1.0",Rhidi1,1348878,125876003,23252,Y,Y,N,,"Morin E et al.,2019","30636349"
+21,"Helicostylum pulchrum RSA 2064 v1.0",Helpul1,562976,32727348,12794,Y,N,N,,,
+22,"Choanephora cucurbitarum NRRL2744 (50) v1.0",Chocucu1,101091,35108735,11534,Y,N,N,,,
+23,"Halteromyces radiatus CBS 162.75 v1.0",Halrad1,101107,26215609,10175,Y,N,N,,,
+24,"Mortierella minutissima AD051 v1.0",Mormin1_1,64525,42872265,13383,Y,N,N,,,
+25,"Mortierella elongata MPI-CAGE-AA-0104 v1.0",Morel_U14_1,310910,50910406,14234,Y,N,N,,,
+26,"Umbelopsis isabellina AD026 v1.0",Umbisa1,91625,21826060,9193,Y,N,N,,,
+27,"Rhizophagus irregularis B3 v1.0",RhiirB3,588596,124893935,25164,Y,Y,N,,"Chen ECH et al.,2018","29355972"
+28,"Rhizophagus irregularis A5 v1.0",RhiirA5,588596,131461109,26585,Y,Y,N,,"Chen ECH et al.,2018","29355972"
+29,"Rhizophagus irregularis A4 v1.0",RhiirA4,588596,138301208,25760,Y,Y,N,,"Chen ECH et al.,2018","29355972"
+30,"Rhizophagus irregularis C2 v1.0",RhiirC2,588596,122966682,26756,Y,Y,N,,"Chen ECH et al.,2018","29355972"
+31,"Rhizophagus irregularis A1 v1.0",RhiirA1_1,588596,125868962,26659,Y,Y,N,,"Chen ECH et al.,2018","29355972"
+32,"Rhizophagus irregularis DAOM 197198 v2.0",Rhiir2_1,588596,136807476,26183,Y,Y,N,,"Chen ECH et al.,2018","29355972"
+33,"Saksenaea vasiformis B4078",Sakvas1,90258,42502389,9387,Y,Y,N,,"Chibucos MC et al.,2016","27447865"
+34,"Mortierella humilis PMI_1414 v1.0",Morhum1,64523,36204870,12012,Y,N,N,,,
+35,"Sporodiniella umbellata MES 1446 v1.0",Spoumb1,101117,26235891,10781,Y,N,N,,,
+36,"Mortierella sp. GBAus27b v1.0",MorGBAus27b_1,1954212,44971843,13953,Y,N,N,,,
+37,"Phycomyces nitens S609 v1.0",PnitS609_1,269771,36991456,11877,Y,N,N,,,
+38,"Phycomyces nitens S607 v1.0",PnitS607_1,269771,35560626,11669,Y,N,N,,,
+39,"Phycomyces nitens S608 v1.0",PnitS608_1,269771,37678874,11985,Y,N,N,,,
+40,"Dichotomocladium elegans RSA 919- v1.0",Dicele1,101130,39778020,12396,Y,N,N,,,
+41,"Pilobolus umbonatus NRRL 6349 v1.0",Pilumb1,101123,34772712,10983,Y,N,N,,,
+42,"Cunninghamella echinulata NRRL 1382 v1.0",Cunech1,76405,29002410,10443,Y,N,N,,,
+43,"Cokeromyces recurvatus NRRL 2243 v1.0",Cokrec1,90255,28120762,10916,Y,N,N,,,
+44,"Pilaira anomala RSA1997 v1.0",Pilano1,64641,34898111,12817,Y,N,N,,,
+45,"Circinella umbellata NRRL1351 v1.0",Cirumb1,101103,51270100,14693,Y,N,N,,,
+46,"Fennellomyces sp. T-0311 v1.0",Fenlin1,1329386,45897337,14128,Y,N,N,,,
+47,"Gilbertella persicaria var. persicaria CBS 190.32-T v1.0",Gilper1,101096,25732466,10992,Y,N,N,,,
+48,"Radiomyces spectabilis NRRL 2753 v1.0",Radspe1,64574,30409402,10905,Y,N,N,,,
+49,"Spinellus fusiger NRRL 22323 v1.0",Spifus1,101115,38198483,10164,Y,N,N,,,
+50,"Umbelopsis sp. nov. AD052 v1.0",Umbsp_AD052_1,1883073,22504321,9369,Y,N,N,,,
+51,"Mortierella verticillata NRRL 6337",Morve1,1069443,41854149,12569,Y,N,N,,,
+52,"Mortierella multidivaricata RSA 2152 T v1.0",Mormul1,101098,37665308,12248,Y,N,N,,,
+53,"Phascolomyces articulosus v1.0",Phaart1,60185,47605836,14495,Y,N,N,,,
+54,"Absidia padenii NRRL 2977 v1.0",Chlpad1,90267,34328230,13495,Y,N,N,,,
+55,"Mucor cordense RSA 1222 v1.0",Kircor1,101140,40953002,16794,Y,N,N,,,
+56,"Gongronella butleri v1.0",Gonbut1,101105,33012461,11004,Y,N,N,,,
+57,"Zychaea mexicana RSA 1403 v1.0",Zycmex1,64656,50638590,14004,Y,N,N,,,
+58,"Lichtheimia corymbifera JMRC:FSU:9682",Liccor1,1263082,33525905,13404,Y,Y,N,,"Schwartze VU et al.,2014","25121733"
+59,"Mycotypha africana NRRL 2978 v1.0",Mycafr1,64632,29202882,10917,Y,N,N,,,
+60,"Mucor heterogamus NRRL 1489 v1.0",Zyghet1,101122,54487678,14998,Y,N,N,,,
+61,"Lobosporangium transversale NRRL 3116 v1.0",Lobtra1,64571,42768949,11822,Y,Y,N,,"Mondo SJ et al.,2017","28481340"
+62,"Blakeslea trispora NRRL 2456 v1.0",Blatri1,4850,37513922,11687,Y,N,N,,,
+63,"Syncephalastrum racemosum NRRL 2496 v1.0",Synrac1,13706,30745403,11124,Y,Y,N,,"Mondo SJ et al.,2017","28481340"
+64,"Thamnidium elegans v1.0",Thaele1,101142,34252226,13104,Y,N,N,,,
+65,"Parasitella parasitica v1.0",Parpar1,35722,32767132,12306,Y,N,N,,,
+66,"Absidia repens NRRL 1336 v1.0",Absrep1,90262,47422896,14919,Y,Y,N,,"Mondo SJ et al.,2017","28481340"
+67,"Mortierella elongata AG-77 v2.0",Morel2,310910,49863165,14969,Y,Y,N,,"Uehling J et al.,2017","28076891"
+68,"Rhizopus microsporus ATCC11559 v1.0",Rhimi_ATCC11559_1,58291,24077254,11355,Y,Y,N,,"Lastovetsky OA et al.,2016","27956601"
+69,"Rhizopus microsporus var. microsporus ATCC52814 v1.0",Rhimi_ATCC52814_1,58291,24950816,11502,Y,Y,N,,"Lastovetsky OA et al.,2016","27956601"
+70,"Rhizopus microsporus var. chinensis CCTCC M201021",Rhich1,1271458,45739792,17676,Y,Y,N,,"Wang D et al.,2013","23516228"
+71,"Backusella circina FSU 941 v1.0",Bacci1,64653,48648288,17039,Y,N,N,,,
+72,"Rhizopus microsporus var. microsporus ATCC52813 v1.0",Rhimi1_1,1340429,25972395,10905,Y,Y,N,,"Mondo SJ et al.,2017","29184190"
+73,"Rhizophagus irregularis DAOM 181602 v1.0",Gloin1,747089,91083792,30282,Y,Y,N,,"Tisserant E et al.,2013","24277808"
+74,"Lichtheimia hyalospora v1.0",Lichy1,420593,33282407,12062,Y,N,N,,,
+75,"Umbelopsis ramanniana AG # v1.0",Umbra1,41833,23077072,9931,Y,N,N,,,
+76,"Mucor circinelloides CBS277.49 v2.0",Mucci2,36080,36587022,11719,Y,Y,N,,"Corrochano LM et al.,2016","27238284"
+77,"Phycomyces blakesleeanus NRRL1555 v2.0",Phybl2,4837,53939167,16528,Y,Y,N,,"Corrochano LM et al.,2016","27238284"
+78,"Rhizopus delemar 99-880 from Broad",Rhior3,246409,46087117,17467,Y,Y,N,,"Ma LJ et al.,2009","19578406"
+79,"Hesseltinella vesiculosa NRRL3301 v2.0",Hesve2finisherSC,101127,27224236,11141,Y,Y,N,,"Mondo SJ et al.,2017","28481340"

@@ -1,0 +1,23 @@
+##,name,portal,"NCBI Taxon","assembly length","#of genes","is public","is published","is superseded","superseded by","publication(s)","pubmed id(s)"
+1,"Piptocephalis tieghemiana RSA 1565 v1.0",Piptie1,1286916,18550337,5811,Y,N,N,,,
+2,"Zoophthora radicans ATCC 208865 v1.0",Zoorad1,42210,655199646,14479,Y,N,N,,,
+3,"Coemansia mojavensis RSA 71 v1.0",Coemoj1,4864,14291446,6859,Y,N,N,,,
+4,"Thamnocephalis sphaerospora RSA 1356 single-cell v1.0",Thasp1,78915,18203817,6857,Y,Y,N,,"Ahrendt SR et al.,2018","30297742"
+5,"Dimargaris cristalligena RSA 468 single-cell v1.0",DimcrSC1,215637,30776575,7456,Y,Y,N,,"Ahrendt SR et al.,2018","30297742"
+6,"Piptocephalis cylindrospora RSA 2659 single-cell v3.0",Pipcy3_1,1907219,10748607,4301,Y,Y,N,,"Ahrendt SR et al.,2018","30297742"
+7,"Syncephalis pseudoplumigaleata Benny S71-1 single-cell v1.0",Synps1,1712513,16269185,6123,Y,Y,N,,"Ahrendt SR et al.,2018","30297742"
+8,"Zancudomyces culisetae COL-18-3",Zancul2,1213189,28637897,8067,Y,Y,N,,"Wang Y et al.,2016","27343289"
+9,"Smittium mucronatum ALG-7-W6",Smimuc2,133383,102350667,8247,Y,Y,N,,"Wang Y et al.,2016","27343289"
+10,"Smittium culicis GSMNP",SmicuMNP_2,133412,77124806,12166,Y,Y,N,,"Wang Y et al.,2016","27343289"
+11,"Smittium culicis ID-206-W2",SmiculW2_1,133412,71049901,11260,Y,Y,N,,"Wang Y et al.,2016","27343289"
+12,"Coemansia spiralis RSA 1278 v1.0",Coespi1,417178,18931979,7247,Y,N,N,,,
+13,"Kickxella alabastrina RSA 675 v1.0",Kicala1,61397,22263034,7475,Y,N,N,,,
+14,"Syncephalis fuscata S228 v1.0",Synfus1,1851187,29358178,8846,Y,N,N,,,
+15,"Syncephalis plumigaleata NRRL S24 v1.0",Synplu1,1851185,32907727,8130,Y,N,N,,,
+16,"Linderina pennispora ATCC 12442 v1.0",Linpe1,61395,26202545,9351,Y,Y,N,,"Mondo SJ et al.,2017","28481340"
+17,"Basidiobolus meristosporus CBS 931.73 v1.0",Basme2finSC,423460,89489060,16111,Y,Y,N,,"Mondo SJ et al.,2017","28481340"
+18,"Ramicandelaber brevisporus CBS 109374 v1.0",Rambr1,304332,25531049,9281,Y,N,N,,,
+19,"Conidiobolus thromboides FSU 785 v1.0",Conth1,1314799,24635576,8867,Y,N,N,,,
+20,"Martensiomyces pterosporus CBS 209.56 v1.0",Marpt1,61414,19815802,8435,Y,N,N,,,
+21,"Conidiobolus coronatus NRRL28638 v1.0",Conco1,34488,39903661,10635,Y,Y,N,,"Chang Y et al.,2015","25977457"
+22,"Coemansia reversa NRRL 1564 v1.0",Coere1,61392,21838014,7347,Y,Y,N,,"Chang Y et al.,2015","25977457"
