@@ -1,4 +1,4 @@
-#Downloading Zygo Genomes from JGI
+# Downloading Zygo Genomes from JGI
 
 ```
 cp scripts/init_jgi_download.sh.template init_jgi_download.sh
@@ -10,5 +10,5 @@ bash lib/mucoromycota_jgi_download.sh
 bash lib/zoopagomycota_jgi_download.sh
 ```
 
-#Downloading Zygo Genomes from  non-JGI sources
+# Downloading Zygo Genomes from  non-JGI sources
 
